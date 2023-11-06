@@ -1321,16 +1321,16 @@
         },
         {
             "name": "giggsey/libphonenumber-for-php",
-            "version": "8.13.23",
+            "version": "8.13.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/giggsey/libphonenumber-for-php.git",
-                "reference": "b2dff83693cb46eb4478b193e9d94e2ff6258480"
+                "reference": "746ca6a565b9d4167c94c80824f43fa6fb463fd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/b2dff83693cb46eb4478b193e9d94e2ff6258480",
-                "reference": "b2dff83693cb46eb4478b193e9d94e2ff6258480",
+                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/746ca6a565b9d4167c94c80824f43fa6fb463fd1",
+                "reference": "746ca6a565b9d4167c94c80824f43fa6fb463fd1",
                 "shasum": ""
             },
             "require": {
@@ -1389,20 +1389,20 @@
                 "issues": "https://github.com/giggsey/libphonenumber-for-php/issues",
                 "source": "https://github.com/giggsey/libphonenumber-for-php"
             },
-            "time": "2023-10-11T07:12:56+00:00"
+            "time": "2023-10-31T08:12:54+00:00"
         },
         {
             "name": "giggsey/locale",
-            "version": "2.4",
+            "version": "2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/giggsey/Locale.git",
-                "reference": "a6b33dfc9e8949b7e28133c4628b29cd9f1850bb"
+                "reference": "e6d4540109a01dd2bc7334cdc842d6a6a67cf239"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giggsey/Locale/zipball/a6b33dfc9e8949b7e28133c4628b29cd9f1850bb",
-                "reference": "a6b33dfc9e8949b7e28133c4628b29cd9f1850bb",
+                "url": "https://api.github.com/repos/giggsey/Locale/zipball/e6d4540109a01dd2bc7334cdc842d6a6a67cf239",
+                "reference": "e6d4540109a01dd2bc7334cdc842d6a6a67cf239",
                 "shasum": ""
             },
             "require": {
@@ -1441,9 +1441,9 @@
             "description": "Locale functions required by libphonenumber-for-php",
             "support": {
                 "issues": "https://github.com/giggsey/Locale/issues",
-                "source": "https://github.com/giggsey/Locale/tree/2.4"
+                "source": "https://github.com/giggsey/Locale/tree/2.5"
             },
-            "time": "2023-04-13T07:40:58+00:00"
+            "time": "2023-11-01T17:19:48+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -3401,16 +3401,16 @@
         },
         {
             "name": "maximebf/debugbar",
-            "version": "v1.19.0",
+            "version": "v1.19.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/maximebf/php-debugbar.git",
-                "reference": "30f65f18f7ac086255a77a079f8e0dcdd35e828e"
+                "reference": "03dd40a1826f4d585ef93ef83afa2a9874a00523"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/maximebf/php-debugbar/zipball/30f65f18f7ac086255a77a079f8e0dcdd35e828e",
-                "reference": "30f65f18f7ac086255a77a079f8e0dcdd35e828e",
+                "url": "https://api.github.com/repos/maximebf/php-debugbar/zipball/03dd40a1826f4d585ef93ef83afa2a9874a00523",
+                "reference": "03dd40a1826f4d585ef93ef83afa2a9874a00523",
                 "shasum": ""
             },
             "require": {
@@ -3461,9 +3461,9 @@
             ],
             "support": {
                 "issues": "https://github.com/maximebf/php-debugbar/issues",
-                "source": "https://github.com/maximebf/php-debugbar/tree/v1.19.0"
+                "source": "https://github.com/maximebf/php-debugbar/tree/v1.19.1"
             },
-            "time": "2023-09-19T19:53:10+00:00"
+            "time": "2023-10-12T08:10:52+00:00"
         },
         {
             "name": "moneyphp/money",
@@ -4722,31 +4722,26 @@
         },
         {
             "name": "php-http/promise",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-http/promise.git",
-                "reference": "4c4c1f9b7289a2ec57cde7f1e9762a5789506f88"
+                "reference": "ef4905bfb492ff389eb7f12e26925a0f20073050"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-http/promise/zipball/4c4c1f9b7289a2ec57cde7f1e9762a5789506f88",
-                "reference": "4c4c1f9b7289a2ec57cde7f1e9762a5789506f88",
+                "url": "https://api.github.com/repos/php-http/promise/zipball/ef4905bfb492ff389eb7f12e26925a0f20073050",
+                "reference": "ef4905bfb492ff389eb7f12e26925a0f20073050",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.1 || ^8.0"
             },
             "require-dev": {
-                "friends-of-phpspec/phpspec-code-coverage": "^4.3.2",
-                "phpspec/phpspec": "^5.1.2 || ^6.2"
+                "friends-of-phpspec/phpspec-code-coverage": "^4.3.2 || ^6.3",
+                "phpspec/phpspec": "^5.1.2 || ^6.2 || ^7.4"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.1-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Http\\Promise\\": "src/"
@@ -4773,9 +4768,9 @@
             ],
             "support": {
                 "issues": "https://github.com/php-http/promise/issues",
-                "source": "https://github.com/php-http/promise/tree/1.1.0"
+                "source": "https://github.com/php-http/promise/tree/1.2.0"
             },
-            "time": "2020-07-07T09:29:14+00:00"
+            "time": "2023-10-24T09:20:26+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -11403,5 +11398,5 @@
         "php": "8.2.*"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
